@@ -1,0 +1,13 @@
+.card {
+  width: 600px;
+}
+a {
+  color: #dc3545;
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+.mail:hover {
+  color: black;
+}
